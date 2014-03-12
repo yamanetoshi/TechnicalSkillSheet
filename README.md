@@ -27,6 +27,8 @@ TechnicalSkillSheet
 |Gradle |Intermediate |2014-present, Work-related |
 |Git, Github         |Advanced        |2008-present, Work-related    |
 |Subversion         |Intermediate        |2004-present, Work-related    |
+|AWS |Intermediate |2012-present, Work-related |
+|fog |Intermediate |2013-present, Work-related |
 
 ## Databases
 
