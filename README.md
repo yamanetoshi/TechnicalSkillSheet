@@ -22,7 +22,7 @@ TechnicalSkillSheet
 |Java     |Advanced        |2002-present, Work-related |
 |Scheme    |Intermediate        |2009-present, Work-related  |
 |C++               |Intermediate    |1997-1999, Work-related    |
-|Python     |Intermediate        |2009-present, Work-related   |
+|Python     |Advanced        |2009-present, Work-related   |
 |Ruby      |Intermediate      |2005-present, Work-related   |
 |Ruby on Rails     |Intermediate      |2005-present, Work-related             |
 |Scala     |Novice        |2013, Work-related    |
@@ -35,11 +35,11 @@ TechnicalSkillSheet
 |:-----------------|:---------------|:-------------------|
 |Android         |Advanced        |2009-present, Work-related |
 |Eclipse         |Advanced        |2009-present, Work-related |
-|Android Studio |Intermediate |2014-present, Work-related |
+|Android Studio |Advanced |2014-present, Work-related |
 |Gradle |Intermediate |2014-present, Work-related |
 |Git, Github         |Advanced        |2008-present, Work-related    |
 |Subversion         |Intermediate        |2004-present, Work-related    |
-|AWS |Intermediate |2012-present, Work-related |
+|AWS |Advanced |2012-present, Work-related |
 |fog |Intermediate |2013-present, Work-related |
 
 ## Databases
