@@ -10,8 +10,8 @@ TechnicalSkillSheet
 ## Telecommunications
 |Skill             |Self-Assignment |Time Frame, Project |
 |:-----------------|:---------------|:-------------------|
-|Routers |Advaneced |2002-present, Work-related |
-|L2, L3 switching |Advanced |2002-present, Work-related |
+|Routers |Advaneced |2002-2013, Work-related |
+|L2, L3 switching |Advanced |2002-2013, Work-related |
 |TCP/IP | Advanced| 1997-present, Work-related |
 
 ## Programming Languages
@@ -28,6 +28,7 @@ TechnicalSkillSheet
 |Scala     |Novice        |2013, Work-related    |
 |x86 assembler     |Intermediate        |2006-present, Work-related                    |
 |Objective-C |Intermediate |2011 Work-related |
+|Go         |Intermediate |2016-present |
 
 ## Applications, Platforms
 
@@ -40,7 +41,8 @@ TechnicalSkillSheet
 |Git, Github         |Advanced        |2008-present, Work-related    |
 |Subversion         |Intermediate        |2004-present, Work-related    |
 |AWS |Advanced |2012-present, Work-related |
-|fog |Intermediate |2013-present, Work-related |
+|fog |Intermediate |2013-2015, Work-related |
+|angular2 |Intermediate |2018-present, WOrk-related|
 
 ## Databases
 
@@ -72,3 +74,4 @@ TechnicalSkillSheet
 |:-----------------|:---------------|:-------------------|
 |Apache, nginx |Intermediate | 2002-present, Work-related |
 |RESTful API |Intermediate |2009-present, Work-related |
+|Recommendation |Intermediate|2018-present, Work-related |
