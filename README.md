@@ -41,8 +41,8 @@ TechnicalSkillSheet
 |Git, Github         |Advanced        |2008-present, Work-related    |
 |Subversion         |Intermediate        |2004-present, Work-related    |
 |AWS |Advanced |2012-present, Work-related |
-|fog |Intermediate |2013-2015, Work-related |
-|angular2 |Intermediate |2018-present, WOrk-related|
+|GCP |Intermediate | 2019-present, Work-related |
+|Nuxt.js |Intermediate |2019-present, Work-related |
 
 ## Databases
 
