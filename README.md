@@ -18,8 +18,8 @@ TechnicalSkillSheet
 
 |Skill             |Self-Assignment |Time Frame, Project |
 |:-----------------|:---------------|:-------------------|
-|C                 |Advanced        |1997-present, Work-related  |
-|Java     |Advanced        |2002-present, Work-related |
+|C                 |Advanced        |1997-2018, Work-related  |
+|Java     |Advanced        |2002-2016, Work-related |
 |Scheme    |Intermediate        |2009-present, Work-related  |
 |C++               |Intermediate    |1997-1999, Work-related    |
 |Python     |Advanced        |2009-present, Work-related   |
@@ -34,15 +34,17 @@ TechnicalSkillSheet
 
 |Skill             |Self-Assignment |Time Frame, Project |
 |:-----------------|:---------------|:-------------------|
-|Android         |Advanced        |2009-present, Work-related |
-|Eclipse         |Advanced        |2009-present, Work-related |
-|Android Studio |Advanced |2014-present, Work-related |
-|Gradle |Intermediate |2014-present, Work-related |
+|Android         |Advanced        |2009-2018, Work-related |
+|Eclipse         |Advanced        |2009-2018, Work-related |
+|Android Studio |Advanced |2014-2018, Work-related |
+|VSCode |Advanced |2020-present, WOrk-related|
+|Docker |Advanced |2016-present, Work-related|
+|Gradle |Intermediate |2014-2018, Work-related |
 |Git, Github         |Advanced        |2008-present, Work-related    |
-|Subversion         |Intermediate        |2004-present, Work-related    |
+|Subversion         |Intermediate        |2004-2010, Work-related    |
 |AWS |Advanced |2012-present, Work-related |
 |GCP |Intermediate | 2019-present, Work-related |
-|Nuxt.js |Intermediate |2019-present, Work-related |
+|Nuxt.js |Intermediate |2019-2020, Work-related |
 
 ## Databases
 
